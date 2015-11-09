@@ -1,0 +1,13 @@
+{
+    "name": "weblab/insights",
+	"description": "Weblab insights",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Timkor",
+            "email": "timothy.korse@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
